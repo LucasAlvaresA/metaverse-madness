@@ -19,8 +19,3 @@
 - Run the project
 
       npm run dev
-
-
-## Warnings
-
-- This project uses Next 13, with some experimental features, so there **may be slowness when compiling the pages**
